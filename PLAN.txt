@@ -1,0 +1,2 @@
+1. http://flask.pocoo.org/docs/0.12/quickstart/#sessions - use sessions of flask
+2. http://flask.pocoo.org/docs/0.12/tutorial/introduction/ - check how to implement this
